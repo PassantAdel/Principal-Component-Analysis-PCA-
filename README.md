@@ -12,10 +12,10 @@ To run the script, you need to have the following dependencies installed:
 - Matplotlib
 - scikit-learn
 - OpenCV
-- 
+  
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/PassantAdel/Image_Colorization.git`
+1. Clone the repository: `git clone https://github.com/PassantAdel/Principal-Component-Analysis-PCA-.git`
 2. Open the script in a Python environment or Jupyter Notebook.
 3. Run the script to see the image compression results.
 
